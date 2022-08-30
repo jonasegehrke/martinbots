@@ -1,0 +1,10 @@
+bot1/.env
+bot2/.env
+bot3/.env
+bot4/.env
+bot5/.env
+bot1/node_modules
+bot2/node_modules
+bot3/node_modules
+bot4/node_modules
+bot5/node_modules
